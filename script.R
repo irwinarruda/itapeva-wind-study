@@ -1,6 +1,6 @@
 library(openair)
 
-setwd("C:/Users/arrud/Documents/Aviao")
+setwd("C:/Users/arrud/Desktop/Projects/PRO/itapeva-wind-study")
 
 data <- read.csv(
   file = "vento_itapeva_tres_anos.csv",
